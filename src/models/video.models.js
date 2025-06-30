@@ -1,4 +1,4 @@
-import moongoose from moongoose 
+import mongoose from moongoose 
 import mongooseAggregatePaginate from "mongoose-aggregate-paginate-v2"
 
 const videoSchema = new moongoose.Schema({
